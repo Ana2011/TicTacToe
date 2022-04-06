@@ -2,4 +2,4 @@
 
 TicTacToe made with Javascript
 
-[Live Tic-Tac-Toe](file:///Users/Anastasiia/Desktop/TicTacToe/index.html)
+[Live Tic-Tac-Toe](https://github.com/Ana2011/TicTacToe/blob/master/index.html)
